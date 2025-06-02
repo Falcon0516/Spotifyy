@@ -1,4 +1,4 @@
-name: spotifyy
+name: flutter_application_1
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0
@@ -17,3 +17,15 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/avangard_slowed.jpeg
+    - assets/blah.jpeg
+    - assets/slava_funk.jpeg
+    - assets/close_eyes.jpeg
+    - assets/metamorphosis.jpeg
+    - assets/tokyo_drift.jpeg
+    - assets/no_limit.jpeg
+    - assets/vox.jpeg
+    - assets/corvette.jpeg
+    - assets/explore.jpeg
+    - assets/collage.jpeg
